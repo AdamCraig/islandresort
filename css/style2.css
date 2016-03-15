@@ -1,25 +1,43 @@
 body {
-  background-color: #ADD8E6;
+  background-color: #7f0000;
 }
 
 h1 {
+  color: white;
   text-align: center;
   font-family: sans-serif;
 }
 
 h2 {
+  color: white;
   text-align: center;
   font-family: sans-serif;
 }
 
+strong {
+
+}
+
+em {
+
+}
+
 p {
+  color: white;
   text-align: center;
   font-kerning: none;
   font-size: 30px;
 }
 
+ul {
+
+}
+
 a {
-  color: #003366;
+  text-align: center;
+  font-kerning: none;
+  font-size: 30px;
+  color: white;
 }
 
 img {
